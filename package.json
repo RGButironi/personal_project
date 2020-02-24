@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/littlebuwrds/personal_project#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
