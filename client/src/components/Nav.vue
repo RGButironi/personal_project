@@ -56,12 +56,16 @@
 </nav>
 </template>
 
+
+
 <script>
-
 export default {
-
+  data: ()=>({
+    isOpen: false
+  })
 }
 </script>
+
 
 <style>
 
