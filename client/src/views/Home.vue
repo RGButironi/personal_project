@@ -2,7 +2,7 @@
   <section class="container">
     <div class="hero">
         <h1 class="title">
-          Home Page
+          HomePage
         </h1>
     </div>
     <div class="card">
